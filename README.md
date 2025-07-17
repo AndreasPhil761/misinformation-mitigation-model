@@ -1,4 +1,4 @@
-SOCIAL NETWORK RECOMMENDATION SYSTEM - BEP PROJECT README
+SOCIAL NETWORK RECOMMENDATION SYSTEM
 ======================================================================
 
 PROJECT OVERVIEW
